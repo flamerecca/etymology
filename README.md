@@ -1,3 +1,24 @@
-# My Awesome Book
+# 大綱
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本書專門研究英文字根、列舉字根的來源、以及舉出現實生活中使用的例子。
+
+有的英文單字，特別是專業領域的單字，乍看之下非常恐怖，但是其實只是一堆字根的組合而已。
+
+比方說很出名的火山矽肺病，Pneumonoultramicroscopicsilicovolcanoconiosis。這個單字非常的長，  
+但是其實只是以下字根的組合：
+
+* pneumono － 關於肺部的
+* ultra － 超過
+* microscopic － 極微小的
+* silico － 矽（silicon）
+* volcano － 火山
+* coniosis － 塵埃引致的疾病
+
+掌握這些字根之後，要被這個單字的時候，就不會像以前國中背單字，死命唸好幾次「P、N、E、U……」硬背這個單字。  
+而是去記「pneumono、ultra、microscopic……」。
+
+是不是簡單多了呢？
+
+這些字根規則，在日常使用的單字上面，會有比較多的例外。所以字根記憶法比較適合用在中高階的英文學習者身上。  
+如果讀者學習中感覺有難度，不用太過灰心，可能只是這份教材不適合現在階段而已。
+
