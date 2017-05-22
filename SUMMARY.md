@@ -5,7 +5,7 @@
 * [原始印歐語簡介](/pie.md)
 * [字根列表](zi-gen-lie-biao.md)
   * [A](zi-gen-lie-biao/a.md)
-  * B
+  * [B](zi-gen-lie-biao/b.md)
   * C
   * D
   * E
