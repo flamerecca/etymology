@@ -3,6 +3,35 @@
 * [大綱](README.md)
 * [簡介字根](/brief.md)
 * [原始印歐語簡介](/pie.md)
+* 字根列表
+  * A
+  * B
+  * C
+  * D
+  * E
+  * F
+  * G
+  * H
+  * I
+  * J
+  * K
+  * L
+  * M
+  * N
+  * O
+  * P
+  * Q
+  * R
+  * S
+  * T
+  * U
+  * V
+  * W
+  * X
+  * Y
+  * Z
+
+
 
 
 
