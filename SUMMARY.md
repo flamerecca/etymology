@@ -3,8 +3,8 @@
 * [大綱](README.md)
 * [簡介字根](/brief.md)
 * [原始印歐語簡介](/pie.md)
-* 字根列表
-  * A
+* [字根列表](zi-gen-lie-biao.md)
+  * [A](zi-gen-lie-biao/a.md)
   * B
   * C
   * D
@@ -30,8 +30,4 @@
   * X
   * Y
   * Z
-
-
-
-
 
